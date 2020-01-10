@@ -3,6 +3,10 @@ Links / useful content for OMSA courses
 
 ## General
 
+* [OMSCentral](https://omscentral.com/courses) - Course reviews
+
+### Python
+
 * [PythonTutor](http://pythontutor.com/) - Visual step-by-step execution of python code
 
 ## Courses
