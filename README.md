@@ -8,3 +8,4 @@ Links / useful content for OMSA courses
 ## Courses
 
 * [CSE6040x](cse6040x.md) 
+* [ISYE6501x](isye6501x.md)
