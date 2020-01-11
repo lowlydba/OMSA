@@ -4,6 +4,7 @@ Links / useful content for OMSA courses
 ## General
 
 * [OMSCentral](https://omscentral.com/courses) - Course reviews
+* [Slack Directory](https://docs.google.com/spreadsheets/d/1j--C5eVxlbMBDBnp68IZX9cY6hbCoGsA8S2CsRK1zlA/edit#gid=0) - Also has other links / info
 
 ### Python
 
