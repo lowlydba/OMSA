@@ -1,5 +1,5 @@
 # OMSA
-Links / useful content for OMSA courses
+Unofficial and third party links and useful content for OMSA courses
 
 ## General
 
