@@ -10,6 +10,7 @@ Unofficial and third party links and useful content for OMSA courses
 
 * [PythonTutor](http://pythontutor.com/) - Visual step-by-step execution of python code
 
+
 ## Courses
 
 * [CSE6040x](cse6040x.md) 
