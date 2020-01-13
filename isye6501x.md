@@ -4,7 +4,7 @@
 # Pre Req Learning
 
 * [The Analytics Edge](https://ocw.mit.edu/courses/sloan-school-of-management/15-071-the-analytics-edge-spring-2017/) - MOOC from MIT, available on edX also
-* [Introduction to Statistical Learning (ISLR)[http://faculty.marshall.usc.edu/gareth-james/ISL/ISLR%20Seventh%20Printing.pdf] 
+* [Introduction to Statistical Learning (ISLR)](http://faculty.marshall.usc.edu/gareth-james/ISL/ISLR%20Seventh%20Printing.pdf) 
 
 # Weeks
 
