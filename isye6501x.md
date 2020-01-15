@@ -23,3 +23,8 @@ Resources tied to specific weekly homeworks/lessons
 * *[Medium: Support Vector Machine with Math](https://medium.com/deep-math-machine-learning-ai/chapter-3-support-vector-machine-with-math-47d6193c82be)*
 
 ## Week 2 
+
+* [K Means Clustering in R Example](http://www.learnbymarketing.com/tutorials/k-means-clustering-in-r-example/)
+* [DataCamp: K-Means Clustering in R Tutorial](https://www.datacamp.com/community/tutorials/k-means-clustering-r)
+* [DataCamp: Machine Learning Toolbox: Chapter 1](https://campus.datacamp.com/courses/machine-learning-toolbox/regression-models-fitting-them-and-evaluating-their-performance?ex=1)
+* [StackExchange: How does cross-validation in train (caret) precisely work?](https://stats.stackexchange.com/questions/219154/how-does-cross-validation-in-train-caret-precisely-work)
