@@ -7,6 +7,7 @@ Links in italic are either course or TA recommended.
 * [The Analytics Edge](https://ocw.mit.edu/courses/sloan-school-of-management/15-071-the-analytics-edge-spring-2017/) - MOOC from MIT, available on edX also
 * *[Introduction to Statistical Learning (ISLR)](http://faculty.marshall.usc.edu/gareth-james/ISL/ISLR%20Seventh%20Printing.pdf)*
 * [Introduction to R](https://www.datacamp.com/courses/free-introduction-to-r) by DataCamp
+* [A short introduction to the caret package](https://cran.csiro.au/web/packages/caret/vignettes/caret.html)
 
 # Weeks
 
