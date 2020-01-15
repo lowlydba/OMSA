@@ -10,6 +10,10 @@ Unofficial and third party links and useful content for OMSA courses
 
 * [PythonTutor](http://pythontutor.com/) - Visual step-by-step execution of python code
 
+### R
+
+* [R Markdown Cheatsheet](https://rstudio.com/wp-content/uploads/2015/02/rmarkdown-cheatsheet.pdf) 
+
 
 ## Courses
 
