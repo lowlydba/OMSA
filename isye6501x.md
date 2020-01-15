@@ -26,5 +26,5 @@ Resources tied to specific weekly homeworks/lessons
 
 * [K Means Clustering in R Example](http://www.learnbymarketing.com/tutorials/k-means-clustering-in-r-example/)
 * [DataCamp: K-Means Clustering in R Tutorial](https://www.datacamp.com/community/tutorials/k-means-clustering-r)
-* [DataCamp: Machine Learning Toolbox: Chapter 1](https://campus.datacamp.com/courses/machine-learning-toolbox/regression-models-fitting-them-and-evaluating-their-performance?ex=1)
+* [DataCamp: Machine Learning Toolbox: Chapter 1](https://campus.datacamp.com/courses/machine-learning-toolbox/regression-models-fitting-them-and-evaluating-their-performance?ex=1) - Good walkthrough of cross validation tactics
 * [StackExchange: How does cross-validation in train (caret) precisely work?](https://stats.stackexchange.com/questions/219154/how-does-cross-validation-in-train-caret-precisely-work)
