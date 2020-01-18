@@ -1,3 +1,5 @@
+[< Back to head of OMSA repo](README.md)
+
 # Course Links
 
 Links in italic are either course or TA recommended.
