@@ -33,3 +33,4 @@ Resources tied to specific weekly homeworks/lessons
 * [DataCamp: Machine Learning Toolbox: Chapter 1](https://campus.datacamp.com/courses/machine-learning-toolbox/regression-models-fitting-them-and-evaluating-their-performance?ex=1) - Good walkthrough of cross validation tactics
 * [StackExchange: How does cross-validation in train (caret) precisely work?](https://stats.stackexchange.com/questions/219154/how-does-cross-validation-in-train-caret-precisely-work)
 * [Medium: K Fold Cross Validation and Other Techniques](https://medium.com/datadriveninvestor/k-fold-and-other-cross-validation-techniques-6c03a2563f1e) - Good visuals
+* [StackExchange: Interpreting the results of kmeans](https://stats.stackexchange.com/questions/48520/interpreting-result-of-k-means-clustering-in-r)
