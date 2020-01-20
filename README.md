@@ -13,6 +13,7 @@ Unofficial and third party links and useful content for OMSA courses
 ### R
 
 * [R Markdown Cheatsheet](https://rstudio.com/wp-content/uploads/2015/02/rmarkdown-cheatsheet.pdf) 
+* [rdrr.io](https://rdrr.io/) Interactive R package documentation
 
 
 ## Courses
