@@ -39,3 +39,4 @@ Resources tied to specific weekly homeworks/lessons
 
 ## Week 4
 * [UC Business Analytics R Programming Guide - Exponential Smoothing](http://uc-r.github.io/ts_exp_smoothing)
+* [otexts: 7.3 Holt-Winters’ seasonal method](https://otexts.com/fpp2/holt-winters.html)
