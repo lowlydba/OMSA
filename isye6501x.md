@@ -45,3 +45,7 @@ Resources tied to specific weekly homeworks/lessons
 ## Week 5
 
 * [DataCamp: Linear Regression R](https://www.datacamp.com/community/tutorials/linear-regression-R)
+
+## Week 6
+
+* [DataCamp: PCA Analysis in R](https://www.datacamp.com/community/tutorials/pca-analysis-r)
