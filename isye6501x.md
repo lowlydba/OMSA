@@ -55,5 +55,6 @@ Resources tied to specific weekly homeworks/lessons
 * [Plotting with rpart.plot](http://www.milbo.org/rpart-plot/prp.pdf)
 * [StackExchange: Rpart Complexity Parameter](https://stats.stackexchange.com/questions/117908/rpart-complexity-parameter-confusion)
 * [StackExchange: Understanding of minbucket in rpart](https://stackoverflow.com/questions/29620619/understanding-of-minbucket-function-in-cart-model-using-r)
+* [Towards Data Science: Random Forest in R](https://towardsdatascience.com/random-forest-in-r-f66adf80ec9)
 
 
