@@ -58,4 +58,6 @@ Resources tied to specific weekly homeworks/lessons
 * [Towards Data Science: Random Forest in R](https://towardsdatascience.com/random-forest-in-r-f66adf80ec9)
 * [UC Business Analytics: Random Forests](https://uc-r.github.io/random_forests) - R based guide
 
+## Week 8
 
+* [DataCamp: Regularization: Ridge, Lasso and Elastic Net](https://www.datacamp.com/community/tutorials/tutorial-ridge-lasso-elastic-net)
