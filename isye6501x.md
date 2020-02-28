@@ -61,3 +61,4 @@ Resources tied to specific weekly homeworks/lessons
 ## Week 8
 
 * [DataCamp: Regularization: Ridge, Lasso and Elastic Net](https://www.datacamp.com/community/tutorials/tutorial-ridge-lasso-elastic-net)
+* [R-Bloggers: Ridge Regression & Lasso](https://www.r-bloggers.com/ridge-regression-and-the-lasso/)
