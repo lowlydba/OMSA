@@ -62,3 +62,4 @@ Resources tied to specific weekly homeworks/lessons
 
 * [DataCamp: Regularization: Ridge, Lasso and Elastic Net](https://www.datacamp.com/community/tutorials/tutorial-ridge-lasso-elastic-net)
 * [R-Bloggers: Ridge Regression & Lasso](https://www.r-bloggers.com/ridge-regression-and-the-lasso/)
+* [StackExchange: How to interpret glmnet plot?](https://stats.stackexchange.com/questions/253963/how-to-interpret-cv-glmnet-plot)
