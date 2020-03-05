@@ -64,3 +64,7 @@ Resources tied to specific weekly homeworks/lessons
 * [R-Bloggers: Ridge Regression & Lasso](https://www.r-bloggers.com/ridge-regression-and-the-lasso/)
 * [StackExchange: How to interpret glmnet plot?](https://stats.stackexchange.com/questions/253963/how-to-interpret-cv-glmnet-plot)
 * [Stanford: GLM Introduction](https://web.stanford.edu/~hastie/glmnet/glmnet_alpha.html)
+
+## Week 9
+
+*[Fractional Factorial Design](https://www.r-bloggers.com/fractional-factorial-designs-using-frf2/)
