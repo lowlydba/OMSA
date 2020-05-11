@@ -1,5 +1,5 @@
 # OMSA
-Unofficial and third party links and useful content for OMSA & Georgia Tech MicroMaster courses.
+Unofficial and third party links and useful content for OMSA (Online Masters of Science in Analytics) from Georgia Tech & the [MicroMaster  Analytics: Essential Tools and Methods](https://www.edx.org/micromasters/gtx-analytics-essential-tools-and-methods) courses.
 
 ## General
 
