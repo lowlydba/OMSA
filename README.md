@@ -1,5 +1,5 @@
 # OMSA
-Unofficial and third party links and useful content for OMSA courses.
+Unofficial and third party links and useful content for OMSA & Georgia Tech MicroMaster courses.
 
 ## General
 
@@ -20,4 +20,4 @@ Unofficial and third party links and useful content for OMSA courses.
 
 * [CSE6040x](cse6040x.md) 
 * [ISYE6501x](isye6501x.md)
-* [MGT6203](mgt6203.md)
+* [MGT6203x](mgt6203x.md)
