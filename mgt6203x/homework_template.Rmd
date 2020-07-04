@@ -1,0 +1,47 @@
+---
+title: "MGT6203 - Homework x Part y"
+date: "mm-dd-yyyy"
+output:
+  html_document: 
+    depth: 1
+    theme: readable
+    toc: yes
+  pdf_document: 
+    highlight: tango
+    toc: yes
+---
+
+```{r setup, include=FALSE}
+set.seed(69)
+
+#Code to Get Data
+#Code to load libraries
+
+```
+
+# Question 1
+
+## A
+
+**Prompt:**
+
+> Text for question 1 part A
+
+**Solution:**
+
+
+```{r}
+
+```
+
+## B
+
+**Prompt:**
+
+> Text for question 1 part B
+
+**Solution:**
+
+```{r}
+
+```

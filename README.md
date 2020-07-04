@@ -18,6 +18,6 @@ Unofficial and third party links and useful content for OMSA (Online Masters of 
 
 ## Courses
 
-* [CSE6040x](cse6040x.md) 
-* [ISYE6501x](isye6501x.md)
-* [MGT6203x](mgt6203x.md)
+* [CSE6040x](cse6040x/cse6040x.md) 
+* [ISYE6501x](isye6501x/isye6501x.md)
+* [MGT6203x](mgt6203x/mgt6203x.md)
